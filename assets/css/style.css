@@ -305,7 +305,7 @@ button:focus {
 
 #myModalRight {
   z-index: 99999;
-  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
 #myModalRight .modal-header .btn-close {
