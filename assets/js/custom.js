@@ -46,7 +46,6 @@ jQuery(function ($) {
 		autoplay: true,
 		autoplayTimeout: 4000,
 		autoplayHoverPause: true,
-		rtl: true,
     });
 
 	// Testimonial Slider JS
@@ -61,7 +60,6 @@ jQuery(function ($) {
 		autoplay: true,
 		autoplayTimeout: 4000,
 		autoplayHoverPause: true,
-		rtl: true,
 	});
 
 	// Popup Youtube JS

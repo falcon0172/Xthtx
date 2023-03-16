@@ -12,7 +12,6 @@ bigimage
   dots: false,
   loop: true,
   responsiveRefreshRate: 200,
-  rtl: true,
   navText: [
     '<i class="bx bx-chevron-left" aria-hidden="true"></i>',
     '<i class="bx bx-chevron-right" aria-hidden="true"></i>'
@@ -37,7 +36,6 @@ thumbs
   slideSpeed: 500,
   slideBy: 4,
   responsiveRefreshRate: 100,
-  rtl: true,
   responsive:{
     0:{
       items:2,
