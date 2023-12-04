@@ -3392,3 +3392,14 @@ h1.coming-soon {
   letter-spacing: 5px;
   font-family: "Josefin Sans", sans-serif;
 }
+
+.wrapper .button {
+  display: inline-block;
+  margin: 0 7px;
+  cursor: pointer;
+}
+
+.wrapper .button a {
+  color: white;
+  cursor: pointer;
+}
